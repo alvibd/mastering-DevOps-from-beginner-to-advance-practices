@@ -1,1 +1,1 @@
-# Ostad Platform DevOps Course
+# Mastering DevOps: From Beginner to Advance Practices
